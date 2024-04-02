@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+check discription for user information
+![Frame 1](https://github.com/varun-desu-yo/weatherguy-react/assets/70738527/7e3b348d-13b5-4036-be40-99089b35e502)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
